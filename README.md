@@ -1,2 +1,3 @@
-# 30-dias-python-spanish
-# 🐍 30 Days Of Python
+# 🐍 30 Dias De Python en español
+
+
