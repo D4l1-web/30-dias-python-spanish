@@ -1,3 +1,3 @@
-# 🐍 30 Dias De Python en español
+ 🐍 30 Dias De Python en español
 
 
