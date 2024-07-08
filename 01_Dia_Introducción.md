@@ -40,4 +40,26 @@ Cuando el error esta resuelto todo funciona correctamente.
 
 ### OPERADORES
 
+Vamos a ver las operaciones básicas matematicas.
+
+- 2 + 3 = 5
+- 3 - 2 = 1
+- 3 * 2 = 6
+- 3 / 2 = 1.5
+- 3 ** 2 = 9
+- 3 % 2 = 1
+- 3 // 2 = 1
+
+### COMENTARIOS
+
+# comentario
+# esto es un comentario
+
+![image](https://github.com/D4l1-web/30-dias-python-spanish/assets/79869523/6f9d62f1-ea84-45cc-8205-d82d17e3a28e)
+
+## INSTALAR VISUAL STUDIO CODE
+
+La shell de python esta muy bien para hacer pequeños scripts de código, pero no para grandes projectos con lo cuál necesitaremos descargarlo. [descarga](https://code.visualstudio.com)
+
+
 
