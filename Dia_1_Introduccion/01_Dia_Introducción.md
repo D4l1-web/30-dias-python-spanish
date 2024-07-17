@@ -61,5 +61,99 @@ Vamos a ver las operaciones básicas matematicas.
 
 La shell de python esta muy bien para hacer pequeños scripts de código, pero no para grandes projectos con lo cuál necesitaremos descargarlo. [descarga](https://code.visualstudio.com)
 
+Una vez instalado crearemos unas carpetas y todo lo que necesitemos
+
+## PYTHON BASICO
+
+La indexacion en el texto es importante y leible por ello puede ser un gran bugg.
+
+![image](https://github.com/user-attachments/assets/fd31ad9c-ae4a-4696-9bed-83c9148705a8)
+
+### COMENTARIOS
+
+Los comentarios son importantes porque se usan para leer y salir del código. Python no ejecuta los comentarios como por ejemplo
+
+```
+    # This is the first comment
+    # This is the second comment
+    # Python is eating the world
+```
+
+Comentarios multiples: 
+```
+"""This is multiline comment
+multiline comment takes multiple lines.
+python is eating the world
+"""
+```
+
+## TIPOS DE DATOS
+
+Python tiene bastantes tipos de datos. Vamos a empezar con los más comunes. 
+
+### NUMEROS
+
+- Integrales : (negativo, cero y positivo) = -3, -2, -1, 0, 1, 2, 3
+- Float: Numeros decimales = -3.54, 1.1
+- Ejemplos Complejos: 1 +j, 2 + 4j
+
+### STRINGS
+
+Coleccion de caracteres
+
+```
+'Asabeneh'
+'Finland'
+'Python'
+'I love teaching'
+'I hope you are enjoying the first day of 30DaysOfPython Challenge'
+```
+
+### BOOLEANS
+
+```
+    True  #  Is the light on? If it is on, then the value is True
+    False # Is the light on? If it is off, then the value is False
+```
+
+### LISTAS
+
+```
+[0, 1, 2, 3, 4, 5]  # all are the same data types - a list of numbers
+['Banana', 'Orange', 'Mango', 'Avocado'] # all the same data types - a list of strings (fruits)
+['Finland','Estonia', 'Sweden','Norway'] # all the same data types - a list of strings (countries)
+['Banana', 10, False, 9.81] # different data types in the list - string, integer, boolean and float
+```
+
+### DICCIONARIO
+
+```
+{
+'first_name':'Asabeneh',
+'last_name':'Yetayeh',
+'country':'Finland', 
+'age':250, 
+'is_married':True,
+'skills':['JS', 'React', 'Node', 'Python']
+}
+```
+
+### TUPLAS
+
+```
+('Asabeneh', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # Names
+('Earth', 'Jupiter', 'Neptune', 'Mars', 'Venus', 'Saturn', 'Uranus', 'Mercury') # planets
+```
+
+### SETS
+
+```
+{2, 4, 3, 5}
+{3.14, 9.81, 2.7} # order is not important in set
+```
+## CHEKEAR TIPOS DE DATOS
+
+![image](https://github.com/user-attachments/assets/7647d29f-187c-4510-bd27-d4250d8cd478)
+![image](https://github.com/user-attachments/assets/90d46fec-eca3-41be-9a2c-849559f94197)
 
 
